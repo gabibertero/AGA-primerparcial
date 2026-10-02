@@ -146,6 +146,7 @@ Por estudiantes, para estudiantes. Puede tener errores: usalo como **complemento
 <br>
 
 ### Made by Claudio 🧉
+Co-authored-by: Claude <noreply@anthropic.com>
 
 <sub>Licencia [MIT](LICENSE)</sub>
 
